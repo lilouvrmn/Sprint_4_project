@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import praktikum.EnvConfig;
+import praktikum.Pages.EnvConfig;
 
 import java.time.Duration;
 
